@@ -7,6 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-I'm a teen software developer who has been int coding for a while now. I' int python, javscript, html, css, and react.
+I'm a teen software developer who has been into coding for a while now. I' into python, c++, javscript, html, css, and react.
 
-![My skills](https://skillicons.dev/icons?i=js,html,css,py,react)
+![My skills](https://skillicons.dev/icons?i=js,html,css,py,react,cpp)
