@@ -8,11 +8,11 @@
 
 Here are some ideas to get you started:
 -->
-I'm a teen software developer who has been into coding for a while now. I' into python, c++, javscript, html, css, and react.
+I'm a teen software developer who has been into coding for a while now. I' into c++, javscript, html, css, and react.
 <br>
 <br>
 <br>
-![My skills](https://skillicons.dev/icons?i=js,html,css,py,react,cpp)<br>
+![My skills](https://skillicons.dev/icons?icpp,js,html,css,react)<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan-solov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
