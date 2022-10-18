@@ -14,7 +14,7 @@ I'm looking for help on <a href="https://github.com/stan-solov/statle">statle</a
 Im also into 3D printing and electronics.
 <br>
 <br>
-![My skills](https://skillicons.dev/icons?i=cpp,js,html,css,react)<br>
+![My skills](https://skillicons.dev/icons?i=cpp,js,html,css,arduino)<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan-solov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
