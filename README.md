@@ -9,7 +9,6 @@
 Here are some ideas to get you started:
 -->
 I'm a teen hobbiest coder who has been into coding for a while now. I' into c++, javscript, html, css, and react.
-I'm looking for help on <a href="https://github.com/stan-solov/statle">statle</a>.
 <br>
 Im also into 3D printing and electronics.
 <br>
