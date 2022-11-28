@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm a teen hobbiest coder who has been into coding for a while now. I' into c++, javscript, html, css, and react.
+This is my profile
 <br>
 Im also into 3D printing and electronics.
 <br>
